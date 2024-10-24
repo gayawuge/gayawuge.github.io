@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://gayawuge.github.io/sitemap/sitemap_index.gayawuge
+Sitemap: https://gayawuge.github.io/iZO/sitemap_index.gayawuge
+Sitemap: https://gayawuge.github.io/SRV/sitemap_index.gayawuge
+Sitemap: https://gayawuge.github.io/GDY/sitemap_index.gayawuge
+Sitemap: https://gayawuge.github.io/jMP/sitemap_index.gayawuge
+Sitemap: https://gayawuge.github.io/UTr/sitemap_index.gayawuge
+Sitemap: https://gayawuge.github.io/IXb/sitemap_index.gayawuge
+Sitemap: https://gayawuge.github.io/gMD/sitemap_index.gayawuge
+Sitemap: https://gayawuge.github.io/Apj/sitemap_index.gayawuge
+Sitemap: https://gayawuge.github.io/qXH/sitemap_index.gayawuge
+Sitemap: https://gayawuge.github.io/jTx/sitemap_index.gayawuge
+Sitemap: https://gayawuge.github.io/OPU/sitemap_index.gayawuge
+Sitemap: https://gayawuge.github.io/qeT/sitemap_index.gayawuge
+Sitemap: https://gayawuge.github.io/xQO/sitemap_index.gayawuge
+Sitemap: https://gayawuge.github.io/KiX/sitemap_index.gayawuge
+Sitemap: https://gayawuge.github.io/LKx/sitemap_index.gayawuge
+Sitemap: https://gayawuge.github.io/qjP/sitemap_index.gayawuge
+Sitemap: https://gayawuge.github.io/Bxy/sitemap_index.gayawuge
+Sitemap: https://gayawuge.github.io/GvQ/sitemap_index.gayawuge
+Sitemap: https://gayawuge.github.io/MDZ/sitemap_index.gayawuge
+Sitemap: https://gayawuge.github.io/eOi/sitemap_index.gayawuge
